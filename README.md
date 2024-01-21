@@ -40,3 +40,6 @@ I added another feature: Two Classes - ("Attempt 7 - added class (1)") - class o
 ("Final TicTacToe") - adding the second class and introduction page 'homepage'
 
 <img width="590" alt="Screenshot 2024-01-21 at 14 50 15" src="https://github.com/miajeavons/tictactoe/assets/151376754/4405ebec-37f8-4b9b-98ab-08be4ba6e39c">
+
+Sources: (in document)
+
